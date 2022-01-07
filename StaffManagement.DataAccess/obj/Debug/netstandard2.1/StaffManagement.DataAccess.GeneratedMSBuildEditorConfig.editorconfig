@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = StaffManagement.DataAccess
+build_property.ProjectDir = c:\Users\User\Desktop\AspNetCoreMVC_Just_Crud\StaffManagement.DataAccess\

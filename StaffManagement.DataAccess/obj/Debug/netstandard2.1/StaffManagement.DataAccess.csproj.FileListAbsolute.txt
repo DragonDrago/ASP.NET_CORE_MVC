@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\bin\Debug\netstandard2.1\StaffManagement.DataAccess.deps.json
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\bin\Debug\netstandard2.1\StaffManagement.DataAccess.dll
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\bin\Debug\netstandard2.1\StaffManagement.DataAccess.pdb
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.dll
+C:\Users\User\Desktop\AspNetCoreMVC\StaffManagement.DataAccess\obj\Debug\netstandard2.1\StaffManagement.DataAccess.pdb
